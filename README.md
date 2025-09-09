@@ -4,6 +4,31 @@
 A brief description of what this project does and who it's for
 
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
